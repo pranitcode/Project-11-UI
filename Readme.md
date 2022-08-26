@@ -1,4 +1,4 @@
-# Project-7-UI
+# Project-11-UI
 ### Full stack JS Assignment
 
 
