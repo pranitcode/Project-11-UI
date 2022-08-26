@@ -1296,7 +1296,7 @@ nav {
     }
     
     .left-side h1 {
-        font-size: 35px;
+        font-size: 25px;
         color:#242525;
       }
     .left-side p {
@@ -1333,7 +1333,7 @@ nav {
 }
 
 .second-left-side h1 {
-    font-size: 35px;
+    font-size: 25px;
     color:#242525;
   }
 .second-left-side p {
@@ -1363,7 +1363,7 @@ nav {
 
 
 .third-left-side h1 {
-    font-size: 35px;
+    font-size: 25px;
     color:#242525;
   }
 .third-left-side p {
@@ -1484,7 +1484,7 @@ nav {
 /* white card */
 .custumer-container {
     display: grid;
-    grid-template-columns:350px;
+    grid-template-columns:340px;
     grid-template-rows: 300px;
     gap: 1rem;
     background-color: #fdfeff;
@@ -1552,7 +1552,7 @@ nav {
 
 
 .btm-container {
-    height: 40vh;
+    height: 50vh;
     background-image: url("./assets/footer-bg.svg");
 
 
@@ -1561,10 +1561,10 @@ nav {
 }
 .btm-part {
     display: flex;
-    justify-content:space-between;
+    justify-content:center;
     flex-direction:column;
      align-items:start;
-     max-width:940px;
+     max-width:350px;
      margin: 0 auto;
 
      gap: 2rem;
